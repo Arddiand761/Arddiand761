@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Arddiand
+# 👋 Halo, Saya Arddian Darmawan
 
 ## 🚀 Full Stack Web Developer
 
