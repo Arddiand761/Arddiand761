@@ -37,9 +37,7 @@ Saya adalah seorang Full Stack Web Developer yang bersemangat dalam membangun ap
 
 ### 📫 Hubungi Saya
 
-- Email: [Tambahkan email Anda]
-- LinkedIn: [Tambahkan LinkedIn Anda]
-- Portfolio: [Tambahkan link portfolio Anda]
+- Email: [Arddiand761@gmail.com]
 
 ### ⚡ Fun Fact
 
