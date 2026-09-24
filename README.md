@@ -39,9 +39,6 @@ Saya adalah seorang Full Stack Web Developer yang bersemangat dalam membangun ap
 
 - Email: [Arddiand761@gmail.com]
 
-### ⚡ Fun Fact
-
-Saya percaya bahwa kode yang baik adalah seperti puisi - mudah dibaca, elegan, dan memiliki makna yang dalam.
 
 ---
 
